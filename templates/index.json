@@ -9,6 +9,21 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_kq9iDe": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_collection_CGXTtJ": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -16,7 +31,7 @@
         "collection": "boston-birk",
         "products": [],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
@@ -33,6 +48,58 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "scrolling_text_UDLT3h": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉE = -50 % SUR LA DEUXIEME PAIRE 📦",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 9,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "impact_text_pPyLNy": {
+      "type": "impact-text",
+      "blocks": {
+        "item_piChR9": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_piChR9"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "text_with_icons_jnCXVM": {
@@ -95,10 +162,30 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "scrolling_text_3wCMNb": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉE = -50 % SUR LA DEUXIEME PAIRE 📦",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 9,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
     }
   },
   "order": [
+    "image_with_text_overlay_kq9iDe",
     "featured_collection_CGXTtJ",
-    "text_with_icons_jnCXVM"
+    "scrolling_text_UDLT3h",
+    "impact_text_pPyLNy",
+    "text_with_icons_jnCXVM",
+    "scrolling_text_3wCMNb"
   ]
 }
