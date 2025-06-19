@@ -178,6 +178,37 @@
         "text_color": "#ffffff",
         "text_gradient": ""
       }
+    },
+    "images_with_text_scrolling_YgGipJ": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_JJdXWF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-06-19_175506559.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Alliez confort et style",
+            "content": "<p>Conçus à partir de matériaux rigoureusement sélectionnés, nos Birks offrent un bien-être instantané dès le premier pas. Leur semelle ultra-légère épouse la forme du pied, tandis que l’empeigne souple accompagne chacun de vos mouvements<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_JJdXWF"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -186,6 +217,7 @@
     "scrolling_text_UDLT3h",
     "impact_text_pPyLNy",
     "text_with_icons_jnCXVM",
-    "scrolling_text_3wCMNb"
+    "scrolling_text_3wCMNb",
+    "images_with_text_scrolling_YgGipJ"
   ]
 }
