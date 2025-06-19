@@ -107,7 +107,31 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Qualité au top",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_pDre3B": {
+          "type": "item",
+          "settings": {
+            "title": "98%",
+            "subheading": "Satisfcation",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_VLAqYn": {
+          "type": "item",
+          "settings": {
+            "title": "+300",
+            "subheading": "Clients livrés",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -117,7 +141,9 @@
         }
       },
       "block_order": [
-        "item_piChR9"
+        "item_piChR9",
+        "item_pDre3B",
+        "item_VLAqYn"
       ],
       "name": "Impact text",
       "settings": {
