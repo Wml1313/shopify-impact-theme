@@ -9,6 +9,21 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_kq9iDe": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "rich_text_CBQiDD": {
       "type": "rich-text",
       "blocks": {
@@ -40,21 +55,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_kq9iDe": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "featured_collection_CGXTtJ": {
@@ -166,6 +166,191 @@
         "heading_gradient": ""
       }
     },
+    "featured_product_ktmEHL": {
+      "type": "featured-product",
+      "blocks": {
+        "title_7hRXjg": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_NjrEUU": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_ymP9qj": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_jeKnRU": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>✔️ <strong>Matière :</strong> Suédine douce premium<br/><br/>✔️ <strong>Semelle intérieure :</strong> Liège et latex ergonomique<br/><br/>✔️ <strong>Semelle extérieure :</strong> EVA antidérapant, ultra-léger<br/><br/>✔️ <strong>Coloris :</strong> Lilas pastel<br/><br/>✔️ <strong>Détails :</strong> Boucle réglable finition métal rosé gravée \"KIDMI\"<br/><br/>✔️ <strong>Pointures :</strong> du 36 au 42<br/><br/></p>"
+          }
+        },
+        "rating_YV7cJG": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_kD4abM": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_xtfzDm": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_PnnjjB": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_g7GKJh": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_iKgYht": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f83a3a",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_tXGCXR": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_7hRXjg",
+        "badges_NjrEUU",
+        "price_ymP9qj",
+        "text_jeKnRU",
+        "rating_YV7cJG",
+        "separator_kD4abM",
+        "description_xtfzDm",
+        "variant_picker_PnnjjB",
+        "quantity_selector_g7GKJh",
+        "buy_buttons_iKgYht",
+        "pickup_availability_tXGCXR"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "boston-pink",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "media_grid_d6g3LM": {
+      "type": "media-grid",
+      "blocks": {
+        "image_8mjMJx": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_NXf7JB": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_p4N3zC": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_8mjMJx",
+        "image_NXf7JB",
+        "image_p4N3zC"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
     "scrolling_text_3wCMNb": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -251,6 +436,8 @@
     "scrolling_text_UDLT3h",
     "impact_text_pPyLNy",
     "images_with_text_scrolling_YgGipJ",
+    "featured_product_ktmEHL",
+    "media_grid_d6g3LM",
     "scrolling_text_3wCMNb",
     "text_with_icons_6mbrWA"
   ]
