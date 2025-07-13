@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "1 ACHETÉE = -50 % SUR LA DEUXIEME PAIRE 📦",
+            "text": "💧 Livraison offerte dès 35 €",
+            "url": ""
+          }
+        },
+        "message_9tAbWU": {
+          "type": "message",
+          "settings": {
+            "text": "-10 % sur ta première commande avec le code HYDO10",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_9tAbWU"
       ],
       "settings": {
         "enable_sticky": false,
