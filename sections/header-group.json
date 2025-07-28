@@ -17,25 +17,33 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "💧 Livraison offerte dès 35 €",
+            "text": "📦 LIVRAISON OFFERTE",
+            "url": ""
+          }
+        },
+        "message_pWfRer": {
+          "type": "message",
+          "settings": {
+            "text": "📊 +1000 COMMANDES EXPÉDIÉES",
             "url": ""
           }
         },
         "message_9tAbWU": {
           "type": "message",
           "settings": {
-            "text": "-10 % sur ta première commande avec le code HYDO10",
+            "text": "🔥 MAILLOTS EXCLUSIFS",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
+        "message_pWfRer",
         "message_9tAbWU"
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
