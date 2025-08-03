@@ -102,82 +102,12 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "collection_list_HEkBCM": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_7wPPei": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_hHH3JK": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_hQKYWj": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_7wPPei",
-        "collection_hHH3JK",
-        "collection_hQKYWj"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
     }
   },
   "order": [
     "image_with_text_overlay_kq9iDe",
     "featured_collection_Yhi9bP",
     "featured_collection_amCLcT",
-    "featured_collection_E9ywPn",
-    "collection_list_HEkBCM"
+    "featured_collection_E9ywPn"
   ]
 }
