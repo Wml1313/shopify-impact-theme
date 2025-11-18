@@ -224,6 +224,83 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_UeEaUb": {
+      "type": "faq",
+      "blocks": {
+        "item_jweJ6H": {
+          "type": "item",
+          "settings": {
+            "title": "Comment taillent les UGG Tasman et Tazz ?",
+            "content": "<p>Les deux modèles taillent normalement.<br/><br/>👉 Si tu es entre deux tailles, prends <strong>une pointure au-dessus</strong> pour plus de confort.<br/></p>"
+          }
+        },
+        "item_jFaUGW": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la différence entre le Tasman et le Tazz ?",
+            "content": "<p><strong>Tasman</strong> : classique, semelle plate, look minimaliste.</p><p><strong>Tazz</strong> : plateforme plus épaisse, style plus mode/streetwear.</p>"
+          }
+        },
+        "item_CHaxpm": {
+          "type": "item",
+          "settings": {
+            "title": "Sont-ils adaptés à l’extérieur ?",
+            "content": "<p>Oui ! Les UGG Tasman et Tazz peuvent être portés <strong>en intérieur et extérieur</strong> grâce à leur semelle résistante.<br/><br/></p>"
+          }
+        },
+        "item_tCT3PE": {
+          "type": "item",
+          "settings": {
+            "title": "Le modèle garde vraiment chaud ?",
+            "content": "<p>Oui, grâce à l’intérieur en laine naturelle qui retient parfaitement la chaleur.<br/><br/></p>"
+          }
+        },
+        "item_nhzBq3": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_hgcDx4": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_jweJ6H",
+        "item_jFaUGW",
+        "item_CHaxpm",
+        "item_tCT3PE",
+        "item_nhzBq3",
+        "item_hgcDx4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Nos réponses à toutes vos questions concernant Ugg Wave !<br/><br/></p>",
+        "team_avatar_width": 160,
+        "support_hours": "Nos réponses à toutes vos questions concernant Ugg Wave !",
+        "answer_time": "12-24h Temps de réponse",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -233,6 +310,7 @@
     "featured_collection_Gb6BDG",
     "images_with_text_scrolling_xEUcUN",
     "scrolling_text_JfP9yK",
-    "text_with_icons_d6BBgP"
+    "text_with_icons_d6BBgP",
+    "faq_UeEaUb"
   ]
 }
