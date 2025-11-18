@@ -111,17 +111,17 @@
       "from_price_html": "From {{ price_min }}"
     },
     "quantity": {
-      "label": "Quantity",
+      "label": "Quantité",
       "increase_quantity": "Increase quantity",
       "decrease_quantity": "Decrease quantity"
     },
     "rating_count": {
-      "zero": "No reviews",
+      "zero": "Pas d'avis",
       "one": "{{ count }} review",
       "other": "{{ count }} reviews"
     },
     "inventory": {
-      "in_stock": "In stock",
+      "in_stock": "E",
       "oversell_stock": "Re-stocking soon",
       "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
