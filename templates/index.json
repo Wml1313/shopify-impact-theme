@@ -255,29 +255,13 @@
             "title": "Le modèle garde vraiment chaud ?",
             "content": "<p>Oui, grâce à l’intérieur en laine naturelle qui retient parfaitement la chaleur.<br/><br/></p>"
           }
-        },
-        "item_nhzBq3": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_hgcDx4": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
         }
       },
       "block_order": [
         "item_jweJ6H",
         "item_jFaUGW",
         "item_CHaxpm",
-        "item_tCT3PE",
-        "item_nhzBq3",
-        "item_hgcDx4"
+        "item_tCT3PE"
       ],
       "name": "FAQ",
       "settings": {
