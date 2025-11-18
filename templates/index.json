@@ -94,6 +94,48 @@
         "product_card_text_color": ""
       }
     },
+    "scrolling_text_dVmdpx": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "-20% Black Friday",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "featured_collection_V6WgDY": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "mini",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Ugg Wave Mini",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir les Mini",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "images_with_text_scrolling_xEUcUN": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -319,6 +361,8 @@
     "featured_collection_iJ7beJ",
     "scrolling_text_nLCmYD",
     "featured_collection_Gb6BDG",
+    "scrolling_text_dVmdpx",
+    "featured_collection_V6WgDY",
     "images_with_text_scrolling_xEUcUN",
     "scrolling_text_JfP9yK",
     "1763487742c67a68e9",
