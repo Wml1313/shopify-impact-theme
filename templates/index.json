@@ -17,90 +17,11 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Banniere_pc_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "featured_collection_Yhi9bP": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "best-sellers",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "🚀 LES PLUS ACHETÉS",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "featured_collection_amCLcT": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "ensemble-training",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "ENSEMBLE TRAINING",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "featured_collection_E9ywPn": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "maillots-24-25",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "MAILLOTS 2024/25",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "text_with_icons_d6BBgP": {
@@ -155,7 +76,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "CONTACTEZ-NOUS",
-            "content": "<p>Besoin de nous contacter ? Envoyez-nous un e-mail à goalkorner.officiel@gmail</p>"
+            "content": "<p>Besoin de nous contacter ? Envoyez-nous un e-mail à uggwave.officiel@gmail</p>"
           }
         }
       },
@@ -181,9 +102,6 @@
   },
   "order": [
     "image_with_text_overlay_kq9iDe",
-    "featured_collection_Yhi9bP",
-    "featured_collection_amCLcT",
-    "featured_collection_E9ywPn",
     "text_with_icons_d6BBgP"
   ]
 }
