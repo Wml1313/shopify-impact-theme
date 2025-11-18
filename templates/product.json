@@ -21,7 +21,13 @@
         "text_im3H8y": {
           "type": "text",
           "settings": {
-            "text": "<p>📦Livraison offerte<br/>📤Retours gratuits sous 30 jours</p><p>🔨Matériaux confort et durables</p>"
+            "text": "<p>📦Livraison offerte<br/>📤Retours gratuits sous 30 jours</p>"
+          }
+        },
+        "text_ax9VQg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Découvrez les UGG les plus tendances du moment : un mélange parfait entre confort ultime et style iconique.</p>"
           }
         },
         "badges": {
@@ -73,7 +79,7 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f83a3a",
+            "atc_button_background": "#974e0e",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -83,6 +89,7 @@
       "block_order": [
         "title",
         "text_im3H8y",
+        "text_ax9VQg",
         "badges",
         "price",
         "rating",
