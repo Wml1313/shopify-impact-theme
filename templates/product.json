@@ -46,6 +46,10 @@
             "show_empty": false
           }
         },
+        "aov_ai_bundle_offer_bundle_builder_GKJL4T": {
+          "type": "shopify://apps/aov-ai-bundle/blocks/offer-bundle-builder/0335d423-143c-4ad7-b224-99a1db74a9ee",
+          "settings": {}
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -93,6 +97,7 @@
         "badges",
         "price",
         "rating",
+        "aov_ai_bundle_offer_bundle_builder_GKJL4T",
         "payment_terms",
         "separator",
         "description",
