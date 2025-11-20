@@ -16,6 +16,27 @@
         "content_width": "80ch"
       }
     },
+    "contact_LpqxPT": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contactez nous",
+        "title": "Avec vous besoin d'aide ?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "faq_zCDU8m": {
       "type": "faq",
       "blocks": {
@@ -126,6 +147,7 @@
         "item_z9yib8",
         "item_xTKa9U"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -152,6 +174,7 @@
   },
   "order": [
     "main",
+    "contact_LpqxPT",
     "faq_zCDU8m"
   ]
 }
