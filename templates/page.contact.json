@@ -16,29 +16,142 @@
         "content_width": "80ch"
       }
     },
-    "contact": {
-      "type": "contact",
+    "faq_zCDU8m": {
+      "type": "faq",
+      "blocks": {
+        "item_HAgajr": {
+          "type": "item",
+          "settings": {
+            "title": "1. Les produits que vous vendez sont-ils authentiques ?",
+            "content": "<p>Touts nos produits font partie de destock et de sortie d'usine.</p>"
+          }
+        },
+        "item_Vz46V4": {
+          "type": "item",
+          "settings": {
+            "title": "2. Quels modèles UGG vendez-vous ?",
+            "content": "<p>Nous proposons plusieurs modèles : <strong>Tasman, Tazz, Wave Mini, Scufette</strong>, et d’autres modèles selon les stocks disponibles.</p>"
+          }
+        },
+        "item_UmdYCz": {
+          "type": "item",
+          "settings": {
+            "title": "3. Comment taillent les UGG ?",
+            "content": "<p>Les UGG taillent normalement.<br/><br/>Si vous êtes entre deux tailles, nous recommandons de prendre <strong>la taille au-dessus</strong>.<br/></p>"
+          }
+        },
+        "item_nR93zB": {
+          "type": "item",
+          "settings": {
+            "title": "4. Faites-vous des retours ?",
+            "content": "<p>Oui, vous pouvez retourner un produit non porté dans un délai de <strong>14 jours</strong> après réception.<br/><br/></p>"
+          }
+        },
+        "item_TMXyb8": {
+          "type": "item",
+          "settings": {
+            "title": "5. Les retours sont-ils gratuits ?",
+            "content": "<p>Selon le cas. Si le produit est défectueux ou si l’erreur vient de nous, oui. Sinon, les frais de retour peuvent être à la charge du client.<br/></p>"
+          }
+        },
+        "item_RgCjY3": {
+          "type": "item",
+          "settings": {
+            "title": "6. Quel est le délai de livraison ?",
+            "content": "<p>Nos livraisons prennent en général <strong>2 à 5 jours ouvrés</strong> selon la destination.<br/></p>"
+          }
+        },
+        "item_F7mbDH": {
+          "type": "item",
+          "settings": {
+            "title": "7. Où livrez-vous ?",
+            "content": "<p>Nous livrons <strong>en France, Belgique, Suisse</strong> et dans la plupart des pays européens.</p>"
+          }
+        },
+        "item_NgYhr7": {
+          "type": "item",
+          "settings": {
+            "title": "8. Comment puis-je suivre ma commande ?",
+            "content": "<p>Une fois votre commande expédiée, vous recevez un e-mail avec un <strong>numéro de suivi</strong>.</p>"
+          }
+        },
+        "item_3xXPgq": {
+          "type": "item",
+          "settings": {
+            "title": "9. Puis-je annuler ma commande ?",
+            "content": "<p>Oui, si la commande n’a pas encore été expédiée. Contactez-nous rapidement.</p>"
+          }
+        },
+        "item_DNqRUC": {
+          "type": "item",
+          "settings": {
+            "title": "10. Quels moyens de paiement acceptez-vous ?",
+            "content": "<p>CB, Visa, Mastercard, Apple Pay, Google Pay, PayPal et paiements fractionnés.</p>"
+          }
+        },
+        "item_r8Wryg": {
+          "type": "item",
+          "settings": {
+            "title": "11. Proposez-vous des remises ou codes promo ?",
+            "content": "<p>Oui, selon les périodes : Black Friday, soldes, bundles, etc.</p>"
+          }
+        },
+        "item_z9yib8": {
+          "type": "item",
+          "settings": {
+            "title": "12. Le produit que je veux est en rupture, que faire ?",
+            "content": "<p>Vous pouvez activer la <strong>notification de retour en stock</strong>, ou nous contacter pour une disponibilité future.</p>"
+          }
+        },
+        "item_xTKa9U": {
+          "type": "item",
+          "settings": {
+            "title": "13. Puis-je porter les UGG dehors ?",
+            "content": "<p>Oui, tous nos modèles sont conçus pour être portés en <strong>intérieur et extérieur</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HAgajr",
+        "item_Vz46V4",
+        "item_UmdYCz",
+        "item_nR93zB",
+        "item_TMXyb8",
+        "item_RgCjY3",
+        "item_F7mbDH",
+        "item_NgYhr7",
+        "item_3xXPgq",
+        "item_DNqRUC",
+        "item_r8Wryg",
+        "item_z9yib8",
+        "item_xTKa9U"
+      ],
+      "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Pose ta question",
-        "content": "",
-        "text_position": "start",
-        "contact_form_size": "large",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
         "button_background": "",
-        "button_text_color": ""
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     }
   },
   "order": [
     "main",
-    "contact"
+    "faq_zCDU8m"
   ]
 }
