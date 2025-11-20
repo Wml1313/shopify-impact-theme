@@ -17,29 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "📦 LIVRAISON OFFERTE",
-            "url": ""
-          }
-        },
-        "message_pWfRer": {
-          "type": "message",
-          "settings": {
-            "text": "📊 +1000 COMMANDES EXPÉDIÉES",
-            "url": ""
-          }
-        },
-        "message_9tAbWU": {
-          "type": "message",
-          "settings": {
-            "text": "🔥 UGG EXCLUSIFS",
+            "text": "🛍️ Pack UGG : 1 acheté = le 2ᵉ à −50 %",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_pWfRer",
-        "message_9tAbWU"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
