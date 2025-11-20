@@ -18,6 +18,7 @@
     },
     "contact_LpqxPT": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
@@ -147,7 +148,6 @@
         "item_z9yib8",
         "item_xTKa9U"
       ],
-      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
