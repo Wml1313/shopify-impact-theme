@@ -86,6 +86,21 @@
         "input_text_color": ""
       }
     },
+    "video_zYYHNn": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/ugg 2.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 10
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -111,6 +126,7 @@
   },
   "order": [
     "main",
+    "video_zYYHNn",
     "related-products"
   ]
 }
