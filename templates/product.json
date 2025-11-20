@@ -88,6 +88,18 @@
     },
     "video_zYYHNn": {
       "type": "video",
+      "blocks": {
+        "heading_VUDCJq": {
+          "type": "heading",
+          "settings": {
+            "text": "UGG Wave sur vos pieds !",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VUDCJq"
+      ],
       "name": "Video",
       "settings": {
         "full_width": true,
