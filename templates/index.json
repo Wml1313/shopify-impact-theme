@@ -79,6 +79,28 @@
     "media_grid_BXCb8Q": {
       "type": "media-grid",
       "blocks": {
+        "image_YHwxVr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/UGG_Scuffette_II_Chaussons_pour_Femme_UGG_FR.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections/scufette",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "image_HXaaiC": {
           "type": "image",
           "settings": {
@@ -147,6 +169,7 @@
         }
       },
       "block_order": [
+        "image_YHwxVr",
         "image_HXaaiC",
         "image_CaabKE",
         "image_Eqnjqw"
