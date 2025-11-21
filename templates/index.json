@@ -46,7 +46,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -74,6 +74,91 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "media_grid_BXCb8Q": {
+      "type": "media-grid",
+      "blocks": {
+        "image_HXaaiC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/b0974d781aaa1b74b6ae9833e3d43164_387900b5-421a-4854-8c81-836a74f1ba77.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections/mini",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_CaabKE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/click_to_shop_ugg_tazz_slippers.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections/tazz-ii",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Eqnjqw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/f9c9d77a76e113418c3ebe0392cf783d.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections/tasman-ii",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_HXaaiC",
+        "image_CaabKE",
+        "image_Eqnjqw"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
       }
     },
     "scrolling_text_nLCmYD": {
@@ -425,6 +510,7 @@
   "order": [
     "slideshow_jBJ3wG",
     "featured_collection_iJ7beJ",
+    "media_grid_BXCb8Q",
     "scrolling_text_nLCmYD",
     "featured_collection_Gb6BDG",
     "scrolling_text_dVmdpx",
