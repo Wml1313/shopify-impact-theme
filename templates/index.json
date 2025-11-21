@@ -9,21 +9,45 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_kq9iDe": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "slideshow_jBJ3wG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_JxjMkL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-11-22_a_00.40.39.png",
+            "content_max_width": 400,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify://collections/all",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_JxjMkL"
+      ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-11-22_a_00.40.39.png",
-        "mobile_image": "shopify://shop_images/image_2025-11-18_183247572.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "featured_collection_iJ7beJ": {
@@ -399,7 +423,7 @@
     }
   },
   "order": [
-    "image_with_text_overlay_kq9iDe",
+    "slideshow_jBJ3wG",
     "featured_collection_iJ7beJ",
     "scrolling_text_nLCmYD",
     "featured_collection_Gb6BDG",
