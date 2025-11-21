@@ -184,6 +184,32 @@
         "background_gradient": ""
       }
     },
+    "featured_collection_g6cpVR": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tasman-ii",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Ugg Wave Tasman II",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvir les Tasman II",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "scrolling_text_nLCmYD": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -534,6 +560,7 @@
     "slideshow_jBJ3wG",
     "featured_collection_iJ7beJ",
     "media_grid_BXCb8Q",
+    "featured_collection_g6cpVR",
     "scrolling_text_nLCmYD",
     "featured_collection_Gb6BDG",
     "scrolling_text_dVmdpx",
