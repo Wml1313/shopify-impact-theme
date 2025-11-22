@@ -359,17 +359,39 @@
             "title": "🔥 UGG Tasman",
             "content": "<p><strong>Le classique incontournable — confort, chaleur et polyvalence.</strong><br/><br/>La modèle Tasman est apprécié pour son intérieur ultra-doux, sa robustesse et son look minimaliste. Parfait pour l’hiver, il se porte aussi bien en intérieur qu’en extérieur.</p>"
           }
+        },
+        "item_FiyQaC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ugg_Shoes_Ugg_Scuffette_Ll_Slippers_Color__Brown_Size__Various.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "🔥 UGG Scuffette",
+            "content": "<p>Le cocon parfait — douceur, chaleur et style à la maison.</p><p>La Scuffette est la pantoufle iconique d’UGG : intérieur ultra-moelleux, laine chaude et semelle confortable pour un usage quotidien. Facile à enfiler, elle garde tes pieds au chaud tout l’hiver, tout en restant élégante et minimaliste. Idéale pour chiller chez toi avec du vrai confort premium.</p>"
+          }
+        },
+        "item_jgagTD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/W_Classic_Ultra_Mini_-_36.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "🔥 UGG Mini",
+            "content": "<p>Le must-have intemporel — chaleur, confort et silhouette iconique.</p><p>Les UGG Mini reprennent tout ce qui fait le charme de la marque : peau lainée ultra-douce, isolation naturelle et semelle robuste. Avec leur hauteur courte, elles sont super faciles à porter au quotidien, en city comme en détente. Un basique d’hiver qui va avec tout, et te suit partout.</p>"
+          }
         }
       },
       "block_order": [
         "item_aQzLLN",
-        "item_33cWF4"
+        "item_33cWF4",
+        "item_FiyQaC",
+        "item_jgagTD"
       ],
       "name": "Images and text scrolling",
       "settings": {
         "full_width": false,
-        "stack_on_mobile": false,
-        "show_counter": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
         "background": "",
