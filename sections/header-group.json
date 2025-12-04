@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🛍️ Pack UGG : 1 acheté = la 2ᵉ à −50 %",
+            "text": "HYDO STARTER PACK À 20% POUR LA BLACK WEEK",
             "url": ""
           }
         }
@@ -30,7 +30,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#974e0e",
+        "background": "#d6ff2a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -40,7 +40,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/MANGACASE_2__1763649263162.png",
         "logo_max_width": 105,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -55,7 +54,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/MANGACASE_2__1763649263162.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

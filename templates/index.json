@@ -9,22 +9,22 @@
  */
 {
   "sections": {
-    "slideshow_jBJ3wG": {
+    "slideshow_4HmD3c": {
       "type": "slideshow",
       "blocks": {
-        "image_JxjMkL": {
+        "image_zXHLUN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-11-22_a_00.40.39.png",
-            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-11-22_a_01.13.44.png",
-            "content_max_width": 400,
+            "image": "shopify://shop_images/2ndhero.png",
+            "mobile_image": "shopify://shop_images/2nd_hero_Portable.png",
+            "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "shopify://collections/all",
+            "button_link": "shopify://products/hydo-starter-pack",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -36,7 +36,7 @@
         }
       },
       "block_order": [
-        "image_JxjMkL"
+        "image_zXHLUN"
       ],
       "name": "Slideshow",
       "settings": {
@@ -47,553 +47,114 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
+        "background": "#F2F2F2",
         "background_gradient": ""
       }
     },
-    "featured_collection_iJ7beJ": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "ugg-waves-seller",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Ugg Wave's Seller",
-        "content": "",
-        "link_url": "",
-        "link_text": "Découvrir les Best Seller",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "media_grid_BXCb8Q": {
-      "type": "media-grid",
+    "featured_product_CffdVx": {
+      "type": "featured-product",
       "blocks": {
-        "image_YHwxVr": {
-          "type": "image",
+        "vendor_KA8PPt": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_NAjFkp": {
+          "type": "title",
           "settings": {
-            "image": "shopify://shop_images/UGG_Scuffette_II_Chaussons_pour_Femme_UGG_FR.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/scufette",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "heading_tag": "h2"
           }
         },
-        "image_HXaaiC": {
-          "type": "image",
+        "badges_33wmhm": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_LqybaN": {
+          "type": "price",
           "settings": {
-            "image": "shopify://shop_images/b0974d781aaa1b74b6ae9833e3d43164_387900b5-421a-4854-8c81-836a74f1ba77.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/mini",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "show_taxes_notice": false
           }
         },
-        "image_CaabKE": {
-          "type": "image",
+        "rating_hKkAew": {
+          "type": "rating",
           "settings": {
-            "image": "shopify://shop_images/click_to_shop_ugg_tazz_slippers.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/tazz-ii",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "show_empty": false
           }
         },
-        "image_Eqnjqw": {
-          "type": "image",
+        "separator_MQFRCd": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_mpmmBd": {
+          "type": "description",
           "settings": {
-            "image": "shopify://shop_images/f9c9d77a76e113418c3ebe0392cf783d.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/tasman-ii",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_YHwxVr",
-        "image_HXaaiC",
-        "image_CaabKE",
-        "image_Eqnjqw"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "featured_collection_g6cpVR": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "tasman-ii",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Ugg Wave Tasman II",
-        "content": "",
-        "link_url": "",
-        "link_text": "Découvir les Tasman II",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "scrolling_text_nLCmYD": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "-20% Black Friday",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "featured_collection_Gb6BDG": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "tazz-ii",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Ugg Wave Tazz II",
-        "content": "",
-        "link_url": "",
-        "link_text": "Découvrir les Tazz II",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "scrolling_text_dVmdpx": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "-20% Black Friday",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "featured_collection_V6WgDY": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "mini",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 4,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Ugg Wave Mini",
-        "content": "",
-        "link_url": "",
-        "link_text": "Découvrir les Mini",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "scrolling_text_RC8Hfz": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "-20% Black Friday",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "featured_collection_g4WXCM": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "scufette",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Ugg Wave Scufette",
-        "content": "",
-        "link_url": "",
-        "link_text": "Découvrir les Scufettes",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "images_with_text_scrolling_xEUcUN": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_aQzLLN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-11-18_164007016.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "🔥 UGG Tazz",
-            "content": "<p><strong>La version plateforme tendance — cozy, mode et ultra-demandée.</strong><br/><br/>Avec sa semelle épaisse et son style modernisé, la UGG Tazz est devenu l’une des modèles les plus populaires. Un mélange parfait entre confort iconique et esthétique streetwear.</p>"
+            "collapse_content": false
           }
         },
-        "item_33cWF4": {
-          "type": "item",
+        "variant_picker_z9VFD6": {
+          "type": "variant_picker",
           "settings": {
-            "image": "shopify://shop_images/image_2025-11-18_164019090.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "🔥 UGG Tasman",
-            "content": "<p><strong>Le classique incontournable — confort, chaleur et polyvalence.</strong><br/><br/>La modèle Tasman est apprécié pour son intérieur ultra-doux, sa robustesse et son look minimaliste. Parfait pour l’hiver, il se porte aussi bien en intérieur qu’en extérieur.</p>"
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
           }
         },
-        "item_FiyQaC": {
-          "type": "item",
+        "quantity_selector_44UCyd": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_9TVqyn": {
+          "type": "buy_buttons",
           "settings": {
-            "image": "shopify://shop_images/Ugg_Shoes_Ugg_Scuffette_Ll_Slippers_Color__Brown_Size__Various.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "🔥 UGG Scuffette",
-            "content": "<p>Le cocon parfait — douceur, chaleur et style à la maison.</p><p>La Scuffette est la pantoufle iconique d’UGG : intérieur ultra-moelleux, laine chaude et semelle confortable pour un usage quotidien. Facile à enfiler, elle garde tes pieds au chaud tout l’hiver, tout en restant élégante et minimaliste. Idéale pour chiller chez toi avec du vrai confort premium.</p>"
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#d6ff2a",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
-        "item_jgagTD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/W_Classic_Ultra_Mini_-_36.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "🔥 UGG Mini",
-            "content": "<p>Le must-have intemporel — chaleur, confort et silhouette iconique.</p><p>Les UGG Mini reprennent tout ce qui fait le charme de la marque : peau lainée ultra-douce, isolation naturelle et semelle robuste. Avec leur hauteur courte, elles sont super faciles à porter au quotidien, en city comme en détente. Un basique d’hiver qui va avec tout, et te suit partout.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_aQzLLN",
-        "item_33cWF4",
-        "item_FiyQaC",
-        "item_jgagTD"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": false,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "scrolling_text_JfP9yK": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "-20% Black Friday",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "1763487742c67a68e9": {
-      "type": "apps",
-      "blocks": {
-        "trustoo_io_reviews_card_carousel_6YaGj3": {
-          "type": "shopify://apps/trustoo-io-reviews/blocks/card-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+        "pickup_availability_JgTD9U": {
+          "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "trustoo_io_reviews_card_carousel_6YaGj3"
+        "vendor_KA8PPt",
+        "title_NAjFkp",
+        "badges_33wmhm",
+        "price_LqybaN",
+        "rating_hKkAew",
+        "separator_MQFRCd",
+        "description_mpmmBd",
+        "variant_picker_z9VFD6",
+        "quantity_selector_44UCyd",
+        "buy_buttons_9TVqyn",
+        "pickup_availability_JgTD9U"
       ],
+      "name": "Featured product",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
+        "product": "hydo-starter-pack",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
-    "text_with_icons_d6BBgP": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_8NTVjc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "LIVRAISON INTERNATIONALE",
-            "content": "<p>Nous livrons en priorité en Europe, avec un délai de 7 à 15 jours</p>"
-          }
-        },
-        "item_twzrJU": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-chat",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "SERVICE CLIENT",
-            "content": "<p>Nous sommes disponibles du lundi au samedi pour répondre à vos questions.</p>"
-          }
-        },
-        "item_Cef63q": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-credit-card",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "PAIMENT SECURISÉ",
-            "content": "<p>Vos informations de paiement sont traitées en toute sécurité.</p>"
-          }
-        },
-        "item_TQTpaJ": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-envelope",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "CONTACTEZ-NOUS",
-            "content": "<p>Besoin de nous contacter ? Envoyez-nous un e-mail à uggwave.officiel@gmail</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_8NTVjc",
-        "item_twzrJU",
-        "item_Cef63q",
-        "item_TQTpaJ"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "faq_UeEaUb": {
-      "type": "faq",
-      "blocks": {
-        "item_jweJ6H": {
-          "type": "item",
-          "settings": {
-            "title": "Comment taillent les UGG Tasman et Tazz ?",
-            "content": "<p>Les deux modèles taillent normalement.<br/><br/>👉 Si tu es entre deux tailles, prends <strong>une pointure au-dessus</strong> pour plus de confort.<br/></p>"
-          }
-        },
-        "item_jFaUGW": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle est la différence entre le Tasman et le Tazz ?",
-            "content": "<p><strong>Tasman</strong> : classique, semelle plate, look minimaliste.</p><p><strong>Tazz</strong> : plateforme plus épaisse, style plus mode/streetwear.</p>"
-          }
-        },
-        "item_CHaxpm": {
-          "type": "item",
-          "settings": {
-            "title": "Sont-ils adaptés à l’extérieur ?",
-            "content": "<p>Oui ! Les UGG Tasman et Tazz peuvent être portés <strong>en intérieur et extérieur</strong> grâce à leur semelle résistante.<br/><br/></p>"
-          }
-        },
-        "item_tCT3PE": {
-          "type": "item",
-          "settings": {
-            "title": "Le modèle garde vraiment chaud ?",
-            "content": "<p>Oui, grâce à l’intérieur en laine naturelle qui retient parfaitement la chaleur.<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_jweJ6H",
-        "item_jFaUGW",
-        "item_CHaxpm",
-        "item_tCT3PE"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Nos réponses à toutes vos questions concernant Ugg Wave !<br/><br/></p>",
-        "team_avatar_width": 160,
-        "support_hours": "Nos réponses à toutes vos questions concernant Ugg Wave !",
-        "answer_time": "12-24h Temps de réponse",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     }
   },
   "order": [
-    "slideshow_jBJ3wG",
-    "featured_collection_iJ7beJ",
-    "media_grid_BXCb8Q",
-    "featured_collection_g6cpVR",
-    "scrolling_text_nLCmYD",
-    "featured_collection_Gb6BDG",
-    "scrolling_text_dVmdpx",
-    "featured_collection_V6WgDY",
-    "scrolling_text_RC8Hfz",
-    "featured_collection_g4WXCM",
-    "images_with_text_scrolling_xEUcUN",
-    "scrolling_text_JfP9yK",
-    "1763487742c67a68e9",
-    "text_with_icons_d6BBgP",
-    "faq_UeEaUb"
+    "slideshow_4HmD3c",
+    "featured_product_CffdVx"
   ]
 }
