@@ -24,7 +24,7 @@
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "shopify://products/hydo-starter-pack",
+            "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -51,172 +51,132 @@
         "background_gradient": ""
       }
     },
-    "text_with_icons_9644LU": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_x73WVP": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
-          }
-        },
-        "item_8yYJFC": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
-          }
-        },
-        "item_kgUrLM": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_x73WVP",
-        "item_8yYJFC",
-        "item_kgUrLM"
-      ],
-      "name": "Text with icons",
+    "featured_collection_fjpFcp": {
+      "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
+        "collection": "frontpage",
+        "products": [],
         "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "featured_product_CffdVx": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor_KA8PPt": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_NAjFkp": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_33wmhm": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_LqybaN": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_hKkAew": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_MQFRCd": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_mpmmBd": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_z9VFD6": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_44UCyd": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_9TVqyn": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#d6ff2a",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_JgTD9U": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "vendor_KA8PPt",
-        "title_NAjFkp",
-        "badges_33wmhm",
-        "price_LqybaN",
-        "rating_hKkAew",
-        "separator_MQFRCd",
-        "description_mpmmBd",
-        "variant_picker_z9VFD6",
-        "quantity_selector_44UCyd",
-        "buy_buttons_9TVqyn",
-        "pickup_availability_JgTD9U"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "hydo-starter-pack",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos Best Sellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir nos Ugg",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_gd4FjH": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "mini",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Ugg Wave Mini",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir nos Ugg",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_8cidnD": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tasman-ii",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Ugg Wave Tasman II",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir nos Ugg",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_JEmRFy": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_PeK4L8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/click_to_shop_ugg_tazz_slippers.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Plonge dans l’univers UGG.<br/>Des modèles premium, chauds et stylés pour un confort absolu au quotidien.<br/>Découvre nos best-sellers et trouve ta paire incontournable.<br/><br/></p>"
+          }
+        },
+        "item_MLCkJc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-11-18_192544492.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_PeK4L8",
+        "item_MLCkJc"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     }
   },
   "order": [
     "slideshow_4HmD3c",
-    "text_with_icons_9644LU",
-    "featured_product_CffdVx"
+    "featured_collection_fjpFcp",
+    "featured_collection_gd4FjH",
+    "featured_collection_8cidnD",
+    "images_with_text_scrolling_JEmRFy"
   ]
 }
