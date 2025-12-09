@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "HYDO STARTER PACK À 20% POUR LA BLACK WEEK",
+            "text": "NOS UGG A -20% POUR LA BLACK WEEK",
             "url": ""
           }
         }
@@ -30,7 +30,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#d6ff2a",
+        "background": "#996a46",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
