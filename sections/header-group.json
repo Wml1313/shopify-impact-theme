@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "NOS UGG A -20% POUR LA BLACK WEEK",
+            "text": "NOS PACKS A -20% POUR L'HIVER",
             "url": ""
           }
         }
@@ -30,7 +30,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#996a46",
+        "background": "#caff00",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -40,8 +40,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/image_2025-09-01_193341248-removebg-preview.png",
         "logo_max_width": 105,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 80,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
