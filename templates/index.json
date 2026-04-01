@@ -146,14 +146,6 @@
     "ss_video_slider_Up7ndw": {
       "type": "ss-video-slider",
       "blocks": {
-        "slide_TVtYAB": {
-          "type": "slide",
-          "settings": {
-            "video_url": "",
-            "title": "Title",
-            "stars_count": 5
-          }
-        },
         "slide_nXkBaP": {
           "type": "slide",
           "settings": {
@@ -196,7 +188,6 @@
         }
       },
       "block_order": [
-        "slide_TVtYAB",
         "slide_nXkBaP",
         "slide_6cLQ3r",
         "slide_hbhLbP",
@@ -231,7 +222,7 @@
         "title_size": 16,
         "title_size_mobile": 16,
         "title_height": 130,
-        "hide_stars": false,
+        "hide_stars": true,
         "stars_size": 16,
         "stars_size_mobile": 16,
         "stars_mt": 16,
