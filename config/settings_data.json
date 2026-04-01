@@ -40,6 +40,7 @@
     "product_info_alignment": "start",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": 40,
+    "favicon": "shopify://shop_images/GoalKornerLogo_afcbf31f-f48c-4f7d-adf2-ed5b8fcb10ec.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
@@ -56,33 +57,6 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
-        }
-      },
-      "17198465164502963513": {
-        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
-        "disabled": false,
-        "settings": {}
-      },
-      "1143683040400472741": {
-        "type": "shopify://apps/trustoo-io-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-        "disabled": false,
-        "settings": {}
-      },
-      "16605207545338212596": {
-        "type": "shopify://apps/aov-ai-bundle/blocks/aov-offer/0335d423-143c-4ad7-b224-99a1db74a9ee",
-        "disabled": false,
-        "settings": {}
-      },
-      "4293466245358296089": {
-        "type": "shopify://apps/smartsize/blocks/app-embed/465a43e0-6a1a-4d30-b82e-fe6118568705",
-        "disabled": false,
-        "settings": {
-          "button_horizontal_aligment": "center",
-          "button_horizontal_aligment_mobile": "left",
-          "smartsize_button_label": "GUIDE DES TAILLES",
-          "smartsize_conversion_label_CM": "CM",
-          "smartsize_conversion_label_IN": "",
-          "hide_default_button": false
         }
       }
     }

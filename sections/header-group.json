@@ -25,6 +25,7 @@
       "block_order": [
         "message"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "text_size": "text-base",
@@ -40,7 +41,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/image_2025-09-01_193341248-removebg-preview.png",
         "logo_max_width": 105,
         "logo_mobile_max_width": 80,
         "menu": "main-menu",
@@ -55,6 +55,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/GoalKornerLogo_afcbf31f-f48c-4f7d-adf2-ed5b8fcb10ec.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

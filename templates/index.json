@@ -15,6 +15,8 @@
         "image_zXHLUN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BanniereGoalKornerPc.png",
+            "mobile_image": "shopify://shop_images/BanniereGoalKornerTel.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
