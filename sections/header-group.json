@@ -41,6 +41,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/GoalKornerLogo_afcbf31f-f48c-4f7d-adf2-ed5b8fcb10ec.png",
         "logo_max_width": 105,
         "logo_mobile_max_width": 80,
         "menu": "main-menu",
