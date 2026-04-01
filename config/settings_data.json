@@ -58,6 +58,26 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
+      },
+      "11254466806377166470": {
+        "type": "shopify://apps/bf-size-charts/blocks/embed-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+        "disabled": false,
+        "settings": {}
+      },
+      "8170924994765517213": {
+        "type": "shopify://apps/qikify-product-options/blocks/app-embed/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
+        "disabled": false,
+        "settings": {}
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcelwill-parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
+      },
+      "2497517740430320072": {
+        "type": "shopify://apps/easyflow/blocks/app-embed/83d04f43-e63e-4a8d-82b9-e4f0b41ef22f",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
