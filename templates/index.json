@@ -15,8 +15,6 @@
         "image_zXHLUN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2ndhero.png",
-            "mobile_image": "shopify://shop_images/2nd_hero_Portable.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -51,14 +49,25 @@
         "background_gradient": ""
       }
     },
-    "featured_collection_fjpFcp": {
-      "type": "featured-collection",
-      "name": "Featured collection",
+    "custom_liquid_DiY3pW": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
-        "collection": "frontpage",
-        "products": [
-          "hydo-starter-pack"
-        ],
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"banner-wrapper\">\n  <div class=\"banner-coupe-monde\">\n    COUPE DU MONDE !\n  </div>\n</div>\n\n<style>\n.banner-wrapper {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  width: 100%;\n  margin: -20px 0;\n}\n\n.banner-coupe-monde {\n  display: inline-block;\n  background-color: #E10600;\n  color: #000000;\n  font-weight: 900;\n  font-size: 32px;\n  letter-spacing: 1px;\n  padding: 10px px; /* hauteur réduite ici */\n  border-radius: 12px;\n  transform: rotate(-2deg);\n  box-shadow: 0 8px 0 rgba(0, 0, 0, 0.25);\n  font-family: Arial, Helvetica, sans-serif;\n  text-transform: uppercase;\n  line-height: 1.1; /* texte bien centré verticalement */\n}\n\n/* Mobile */\n@media (max-width: 768px) {\n  .banner-coupe-monde {\n    font-size: 20px;\n    padding: 8px 20px;\n  }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_Tc8GAA": {
+      "type": "featured-collection",
+      "name": "COLELCTION CDM 2026",
+      "settings": {
+        "collection": "collection-cdm-2026",
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -68,8 +77,8 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "link_url": "",
-        "link_text": "",
+        "link_url": "shopify://collections/collection-cdm-2026",
+        "link_text": "Tout voir",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -78,10 +87,221 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "custom_liquid_F9j7TT": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"banner-wrapper\">\n  <div class=\"banner-coupe-monde\">\n    BEST SELLERS !\n  </div>\n</div>\n\n<style>\n.banner-wrapper {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  width: 100%;\n  margin: -20px 0;\n}\n\n.banner-coupe-monde {\n  display: inline-block;\n  background-color: #E10600;\n  color: #000000;\n  font-weight: 900;\n  font-size: 32px;\n  letter-spacing: 1px;\n  padding: 10px 36px;\n  border-radius: 12px;\n  transform: rotate(-2deg);\n  box-shadow: 0 8px 0 rgba(0, 0, 0, 0.25);\n  font-family: Arial, Helvetica, sans-serif;\n  text-transform: uppercase;\n  line-height: 1.1;\n}\n\n/* Mobile */\n@media (max-width: 768px) {\n  .banner-coupe-monde {\n    font-size: 20px;\n    padding: 8px 20px;\n  }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_Uh4Wc8": {
+      "type": "featured-collection",
+      "name": "BEST SELLERS",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify://collections/best-sellers",
+        "link_text": "Tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "custom_liquid_6HE8Vx": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_jG79zq": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_eFV4Cf": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_P6zQXp": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_DDiDWC": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Tf74QH": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ePEPDG": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_y8crCn": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_P6zQXp",
+        "logo_DDiDWC",
+        "logo_Tf74QH",
+        "logo_ePEPDG",
+        "logo_y8crCn"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "custom_liquid_TwfXMG": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_hepyhd": {
+      "type": "featured-collection",
+      "name": "can 2026",
+      "settings": {
+        "collection": "can-2026",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify://collections/can-2026",
+        "link_text": "Tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "1775031764aa59a5c8": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_3mjTiP": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_3mjTiP"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
     "slideshow_4HmD3c",
-    "featured_collection_fjpFcp"
+    "custom_liquid_DiY3pW",
+    "featured_collection_Tc8GAA",
+    "custom_liquid_F9j7TT",
+    "featured_collection_Uh4Wc8",
+    "custom_liquid_6HE8Vx",
+    "custom_liquid_jG79zq",
+    "logo_list_eFV4Cf",
+    "custom_liquid_TwfXMG",
+    "featured_collection_hepyhd",
+    "1775031764aa59a5c8"
   ]
 }
