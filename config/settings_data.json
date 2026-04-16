@@ -34,7 +34,7 @@
     "currency_code_enabled": false,
     "show_page_transition": true,
     "heading_apparition": "split_fade",
-    "show_discount": false,
+    "show_discount": true,
     "discount_mode": "percentage",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
