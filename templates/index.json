@@ -64,43 +64,30 @@
         "text_color": ""
       }
     },
-    "collection_list_tXQg8b": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_qzxaya": {
-          "type": "collection",
-          "settings": {
-            "collection": "maillot-paris-sg-2026",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_qzxaya"
-      ],
-      "name": "Collection list",
+    "featured_collection_L8AEGK": {
+      "type": "featured-collection",
+      "name": "COLELCTION CDM 2026",
       "settings": {
+        "collection": "maillot-paris-sg-2026",
+        "products": [],
         "full_width": true,
-        "stack_collections": true,
-        "collections_per_row": 3,
+        "stack_products": false,
         "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
         "content": "",
-        "link_url": "",
+        "link_url": "shopify://collections/collection-cdm-2026",
         "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "custom_liquid_DiY3pW": {
@@ -498,7 +485,7 @@
   "order": [
     "slideshow_4HmD3c",
     "custom_liquid_4pDzXi",
-    "collection_list_tXQg8b",
+    "featured_collection_L8AEGK",
     "custom_liquid_DiY3pW",
     "featured_collection_Tc8GAA",
     "custom_liquid_F9j7TT",
