@@ -51,6 +51,107 @@
         "background_gradient": ""
       }
     },
+    "featured_product_AMBmmR": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_J9P4HU": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_ghbt4V": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_MxypfV": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_CKLwKr": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_QYJCzj": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_LzWNnp": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_rbddFb": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_nz4TyT": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_aDxxtC": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Ee7k3K": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_4yzzw4": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_J9P4HU",
+        "title_ghbt4V",
+        "badges_MxypfV",
+        "price_CKLwKr",
+        "rating_QYJCzj",
+        "separator_LzWNnp",
+        "description_rbddFb",
+        "variant_picker_nz4TyT",
+        "quantity_selector_aDxxtC",
+        "buy_buttons_Ee7k3K",
+        "pickup_availability_4yzzw4"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "paris-sg-maillot-champions-deurope-2026",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "custom_liquid_DiY3pW": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -149,6 +250,7 @@
           "type": "slide",
           "settings": {
             "video": "shopify://files/videos/snaptik_7612359369816149270_v3.mp4",
+            "video_url": "",
             "title": "somchaaii",
             "stars_count": 5
           }
@@ -157,6 +259,7 @@
           "type": "slide",
           "settings": {
             "video": "shopify://files/videos/snaptik_7576710611329944854_v3.mp4",
+            "video_url": "",
             "title": "justssofiaa",
             "stars_count": 5
           }
@@ -165,6 +268,7 @@
           "type": "slide",
           "settings": {
             "video": "shopify://files/videos/snaptik_7512486069934361878_v3.mp4",
+            "video_url": "",
             "title": "sana.tiktokoff",
             "stars_count": 5
           }
@@ -173,6 +277,7 @@
           "type": "slide",
           "settings": {
             "video": "shopify://files/videos/snaptik_7576658002527276310_v3.mp4",
+            "video_url": "",
             "title": "justssofiaa",
             "stars_count": 5
           }
@@ -181,6 +286,7 @@
           "type": "slide",
           "settings": {
             "video": "shopify://files/videos/snaptik_7512132752825683222_v3.mp4",
+            "video_url": "",
             "title": "sana.tiktokoff",
             "stars_count": 5
           }
@@ -240,25 +346,25 @@
         "arrow_radius": 100,
         "arrow_border_thickness": 0,
         "arrow_hover_effect": "color",
-        "title_color": "#FFFFFF",
-        "stars_color": "#FFFFFF",
+        "title_color": "#ffffff",
+        "stars_color": "#ffffff",
         "card_border_color": "#121212",
         "card_shadow_color": "#121212",
         "card_overlay_color": "#121212",
-        "action_color": "#FFFFFF",
-        "action_hover_color": "#FFFFFF",
-        "action_bg_color": "#FFFFFF",
-        "action_bg_hover_color": "#FFFFFF",
-        "action_border_color": "#FFFFFF",
-        "action_border_hover_color": "#FFFFFF",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
         "arrow_color": "#121212",
-        "arrow_hover_color": "#FFFFFF",
-        "arrow_bg_color": "#FFFFFF",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
         "arrow_bg_hover_color": "#121212",
         "arrow_border_color": "#121212",
         "arrow_border_hover_color": "#121212",
         "background_style": "solid",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "linear-gradient(180deg, #FFFFFF 0%, #F2F2F2 100%)",
         "border_color": "#121212",
         "margin_top": 0,
@@ -440,6 +546,7 @@
   },
   "order": [
     "slideshow_4HmD3c",
+    "featured_product_AMBmmR",
     "custom_liquid_DiY3pW",
     "featured_collection_Tc8GAA",
     "custom_liquid_F9j7TT",
