@@ -64,105 +64,43 @@
         "text_color": ""
       }
     },
-    "featured_product_AMBmmR": {
-      "type": "featured-product",
+    "collection_list_tXQg8b": {
+      "type": "collection-list",
       "blocks": {
-        "vendor_J9P4HU": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_ghbt4V": {
-          "type": "title",
+        "collection_qzxaya": {
+          "type": "collection",
           "settings": {
-            "heading_tag": "h2"
+            "collection": "maillot-paris-sg-2026",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
           }
-        },
-        "badges_MxypfV": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_CKLwKr": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_QYJCzj": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_LzWNnp": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_rbddFb": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_nz4TyT": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_aDxxtC": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_Ee7k3K": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_4yzzw4": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_J9P4HU",
-        "title_ghbt4V",
-        "badges_MxypfV",
-        "price_CKLwKr",
-        "rating_QYJCzj",
-        "separator_LzWNnp",
-        "description_rbddFb",
-        "variant_picker_nz4TyT",
-        "quantity_selector_aDxxtC",
-        "buy_buttons_Ee7k3K",
-        "pickup_availability_4yzzw4"
+        "collection_qzxaya"
       ],
-      "name": "Featured product",
+      "name": "Collection list",
       "settings": {
         "full_width": true,
-        "product": "paris-sg-maillot-champions-deurope-2026",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
+        "stack_collections": true,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "custom_liquid_DiY3pW": {
@@ -560,7 +498,7 @@
   "order": [
     "slideshow_4HmD3c",
     "custom_liquid_4pDzXi",
-    "featured_product_AMBmmR",
+    "collection_list_tXQg8b",
     "custom_liquid_DiY3pW",
     "featured_collection_Tc8GAA",
     "custom_liquid_F9j7TT",
