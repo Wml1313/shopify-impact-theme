@@ -66,7 +66,7 @@
     },
     "featured_collection_L8AEGK": {
       "type": "featured-collection",
-      "name": "COLELCTION CDM 2026",
+      "name": "PARIS 2026",
       "settings": {
         "collection": "maillot-paris-sg-2026",
         "products": [],
@@ -74,8 +74,8 @@
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 2,
         "subheading": "",
         "title": "",
         "content": "",
