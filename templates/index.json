@@ -184,6 +184,15 @@
     "ss_video_slider_Up7ndw": {
       "type": "ss-video-slider",
       "blocks": {
+        "slide_jpwX7b": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7652081202332962080_v3.mp4",
+            "video_url": "",
+            "title": "bebeta",
+            "stars_count": 5
+          }
+        },
         "slide_akmpAe": {
           "type": "slide",
           "settings": {
@@ -260,6 +269,7 @@
         }
       },
       "block_order": [
+        "slide_jpwX7b",
         "slide_akmpAe",
         "slide_gayEX6",
         "slide_jFwjYb",
