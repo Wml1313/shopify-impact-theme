@@ -184,6 +184,15 @@
     "ss_video_slider_Up7ndw": {
       "type": "ss-video-slider",
       "blocks": {
+        "slide_akmpAe": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7655333653580385568_v3.mp4",
+            "video_url": "",
+            "title": "faatiixxx",
+            "stars_count": 5
+          }
+        },
         "slide_gayEX6": {
           "type": "slide",
           "settings": {
@@ -251,6 +260,7 @@
         }
       },
       "block_order": [
+        "slide_akmpAe",
         "slide_gayEX6",
         "slide_jFwjYb",
         "slide_nXkBaP",
